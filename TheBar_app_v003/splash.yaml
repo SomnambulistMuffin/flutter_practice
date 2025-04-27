@@ -1,0 +1,13 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  color_dark: "#272727"
+  image: C:\Users\user\Documents\TheBar_App\thecocktailbar_app\assets\logos\lightmode_cocktailbar_logo.png
+  image_dark: C:\Users\user\Documents\TheBar_App\thecocktailbar_app\assets\logos\darkmode_cocktailbar_logo.png
+
+  android_12:
+    color: "#FFFFFF"
+    color_dark: "#272727"
+    image: C:\Users\user\Documents\TheBar_App\thecocktailbar_app\assets\logos\lightmode_cocktailbar_logo.png
+    image_dark: C:\Users\user\Documents\TheBar_App\thecocktailbar_app\assets\logos\darkmode_cocktailbar_logo.png
+
+  web: false
